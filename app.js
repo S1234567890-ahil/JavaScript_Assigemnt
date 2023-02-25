@@ -814,18 +814,18 @@
 
 //------------------------ Question no: 6-------------------------------------------------------
 
-for(var i = 10; i>=0; i--){
-    document.write(i+ " " )
-}
-for(var i =10; i<<=0; i++){
-    document.write(i)
-}
+// for(var i = 10; i>=0; i--){
+//     document.write(i+ " " )
+// }
+// for(var i =10; i<<=0; i++){
+//     document.write(i)
+// }
 
-let a = 10;
-while(a !== 0){
-    document.write( a + "    " );
-    a = i - 1;
-}
+// let a = 10;
+// while(a !== 0){
+//     document.write( a + "    " );
+//     a = i - 1;
+// }
 
 
 
