@@ -779,7 +779,72 @@
 //  }
 // document.write('<br>' + '<br>');
 
-//------------------------ Question no: 2-------------------------------------------------------
+//------------------------ Question no: 3-------------------------------------------------------
+   
+// for (var input = 1; input <= 10; input++) {
+    //     document.write(input + "<br>");
+    //    }
+    
+//------------------------ Question no: 4-------------------------------------------------------
+
+// const number =parseInt(prompt(`Enter an integer: `));
+// const range = parseInt(prompt(`Enter a range: `));
+// for(let i = 1; i <= range; i++) {
+//     const result = i * number;
+//     document.write(`${number} * ${i} = ${result}` + "<br>");
+// }
+
+
+
+//------------------------ Question no: 5-------------------------------------------------------
+
+// var arry =[
+//     "apple","banana","mango","orange","strawbery"
+// ]
+
+// for(var a = 0; a < 5; a++ ){
+//     document.write(arry[a] + "<br> " )
+    
+// }
+// document.write("Element at index 0 is apple" + "<br>")
+// document.write("Element at index 1 is banana" + "<br>")
+// document.write("Element at index 2 is mango " + "<br>")
+// document.write("Element at index 3 is orange" + "<br>")
+// document.write("Element at index 4 is strawbery" + "<br>")
+
+//------------------------ Question no: 6-------------------------------------------------------
+
+for(var i = 10; i>=0; i--){
+    document.write(i+ " " )
+}
+for(var i =10; i<<=0; i++){
+    document.write(i)
+}
+
+let a = 10;
+while(a !== 0){
+    document.write( a + "    " );
+    a = i - 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
